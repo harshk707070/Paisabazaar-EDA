@@ -31,7 +31,3 @@ We used **Matplotlib** and **Seaborn** to visualize:
 - Poor credit scores are linked to high credit utilization ratios
 - Income levels have a strong correlation with credit score
 
-## 📎 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
